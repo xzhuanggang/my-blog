@@ -1,8 +1,9 @@
 ---
 title: PMP49个过程组知识领域ITTO汇总 -- 项目整合管理
-date: 2024/08/02
+date: 2021-06-17 16:54:20
 tags:
- - pmp
+ - pmp 
+ - 项目管理
 ---
 
 [PMP49个过程组知识领域ITTO汇总 -- 项目整合管理](https://blog.csdn.net/m0_37933493/article/details/117995662)  

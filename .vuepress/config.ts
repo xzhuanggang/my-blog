@@ -33,7 +33,15 @@ export default defineUserConfig({
     navbar: [
       { text: "首页", link: "/" },
       { text: "Categories", link: "/categories/reco/1/" },
-      { text: "Tags", link: "/tags/tag1/1/" },
+      {
+        text: "Tags",
+        children: [
+          { text: ".net", link: "/tags/.net/1" },
+          { text: "abp vnext", link: "/tags/abp-vnext/1" },
+          { text: "pmp", link: "/tags/pmp/1" },
+          { text: "项目管理", link: "/tags/xiangmuguanli/1" },
+        ],
+      },
       {
         text: "Docs",
         children: [
